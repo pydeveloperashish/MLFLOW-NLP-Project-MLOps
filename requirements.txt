@@ -1,0 +1,13 @@
+-e .
+
+mlflow
+scikit-learn
+matplotlib
+numpy
+pandas
+tqdm
+PyYAML
+boto3    ## for aws
+joblib
+scipy
+

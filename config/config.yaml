@@ -1,0 +1,22 @@
+artifacts:
+  Artifacts_dir: artifacts
+  Prepared_Data_dir: prepared_data
+  Trained_Data: train.tsv
+  Test_Data: test.tsv
+  Featurized_Data: features
+  Featurized_Out_Train: train.pkl
+  Featurized_Out_Test: test.pkl
+  Model_dir: model
+  Model_Name: model.pkl
+
+metrics: 
+  Scores: scores.json
+
+plots:
+  PRC: prc.json
+  ROC: roc.json
+
+source_data_dirs:
+  data_dir: data
+  data_file: data.xml
+
